@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadCertificateFileName</key>
+            <string>mitmproxy.pem</string>
+            <key>PayloadContent</key>
+            <data>
+            MIIDNTCCAh2gAwIBAgIUbJVMlDg44Da54bF3pfY3l8T4pXUwDQYJKoZIhvcNAQELBQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcNMjYwMzI1MTQ1NjE2WhcNMzYwMzI0MTQ1NjE2WjAoMRIwEAYDVQQDDAltaXRtcHJveHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALkkcm+CbTr+z+9KxXJ7yTBUtIb4tjmuRiwcYGA+/ONu7XZhiukKeJ7WALRYdSmIcgcwiMhVBBaokZE3b9DaCOXX7CJyAafGmWJKTZ3VvgpRGarlWVA1nZ0cpqqzAP6hqxHdG4ywvtSuu52aj9qLVlSlXLUGe4V1yxUXoRyfiZX5I3PdZVC4BqeT3+irm3DdwWQZB+AvJ6zDLnn1+KatmYSZ6d2Zy/Fj4zRQf5lZXsNAHL6tol3GwB1lt68feE5Ukt3rUqe/MPhYAknsu5pujGzWXv3ry7CmQCV0Ov6hWcbHV7YvfH5l1gKdaun9DQHUlEEFEVGVFpzFNfbTf1Ga58ECAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFEXSimiVH4uq3ICFY4AzQ7OQ0Z//MA0GCSqGSIb3DQEBCwUAA4IBAQBnw2lXvCivjQDWuquVEDbRzw6nvQxARlM9zuIgDWtaawARhrIPnP1tEXxpIje2RksgebZ7HxV3pWOAxs7wiTN3yYk9hc6uv3dgt3x7Ar071fFWXLG1X+M7IQNrqhhNlfrJhZ7jqVz/a/9CWWC7J8mXlGsSUwpV6rutBDTf5DQzCgLS/MD7CRGMn99Us2e57M0Nr5sc+v/zdLjN/7bQCZ1olvEQYxeACI1lZdKN907Q+vU+bWYOlOVlKw1enjzRaBKDMV1JUAnxO67CbO1ljL48orfI+dnLixT3DbTIIB1cohDbqjDAZwEsjgG7kN7NJFog81Bfd7RAI5wGjTfaBo0a
+            </data>
+            <key>PayloadDisplayName</key>
+            <string>mitmproxy certificate</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.security.root.mitm</string>
+            <key>PayloadType</key>
+            <string>com.apple.security.root</string>
+            <key>PayloadUUID</key>
+            <string>7B9A3D2E-1234-4A5B-9C8D-0F1E2A3B4C5D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Mitmproxy Trust Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.rampaev.mitm.profile</string>
+    <key>PayloadOrganization</key>
+    <string>rampaev.github.io</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>E9C1D2A3-B4C5-D6E7-F8A9-0B1C2D3E4F5A</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
